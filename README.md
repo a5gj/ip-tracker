@@ -1,6 +1,6 @@
 # ip-tracker
 
-                            DONT FORGET TO STAR MY PROJECT 
+                    DONT FORGET TO STAR MY PROJECT 
                             
                             
 ip_tracker it's a tool you will need it if you want to get someone's contry ip
